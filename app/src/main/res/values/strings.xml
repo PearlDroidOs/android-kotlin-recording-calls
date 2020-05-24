@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recording Calls</string>
+    <string name="des_device">Description Device</string>
+    <string name="des_label">Description Admin Label</string>
+</resources>
